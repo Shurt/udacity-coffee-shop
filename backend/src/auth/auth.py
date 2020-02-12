@@ -52,7 +52,7 @@ def verify_decode_jwt(token):
     json_web_key = json.loads(json_url.read())
     unverified_header = jwt.get_unverified_header(token)
     rsa_key = {}
-
+    print(unverified_header, file=sys.stderr)
     if 'kid' not in unverified_header:
         raise AuthError('Header invalid: Key-ID is missing.', 401)
 
@@ -65,7 +65,10 @@ def verify_decode_jwt(token):
                 'n': key['n'],
                 'e': key['e']
             }
+        else:
+            raise AuthError("Unauthorized to access this resource.", 401)
 
+    
     if rsa_key:
         try:
             payload = jwt.decode(token,
