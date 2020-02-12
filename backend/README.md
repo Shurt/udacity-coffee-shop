@@ -83,3 +83,41 @@ There are `@TODO` comments throughout the `./backend/src`. We recommend tackling
 
 1. `./src/auth/auth.py`
 2. `./src/api.py`
+
+---
+
+# API Documentation
+### /drinks:
+* Endpoint: '/drinks'
+* Arguments: None
+* Method: 'GET'
+* Authentication: None, public API.
+* Returns: Status 200, list of drinks, short form.
+
+### /drinks:
+* Endpoint: '/drinks'
+* Arguments: None
+* Method: 'POST'
+* Authentication: post:drinks
+* Returns: Status 200, newly created drink
+
+### /drinks-detail:
+* Endpoint: '/drinks-detail'
+* Arguments: None
+* Method: 'GET'
+* Authentication: None, public API
+* Returns: Status 200, list of drinks, long form
+
+### /drinks/<drink_id>:
+* Endpoint: '/drinks/<drink_id>'
+* Arguments: Drink ID
+* Method: 'PATCH'
+* Authentication: patch:drinks
+* Returns: Status 200, edited drink
+
+### /drinks/<drink_id>:
+* Endpoint: '/drinks/<drink_id>'
+* Arguments: Drink ID
+* Method: 'DELETE'
+* Authentication: delete:drinks
+* Returns: Status 200, drink ID of deleted drink

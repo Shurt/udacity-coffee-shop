@@ -1,0 +1,548 @@
+2020-02-12 10:28:35,823 INFO:  * Restarting with stat
+2020-02-12 10:28:37,048 WARNING:  * Debugger is active!
+2020-02-12 10:28:37,065 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:28:37,077 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:28:39,940 INFO: 127.0.0.1 - - [12/Feb/2020 10:28:39] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:28:40,280 INFO: 127.0.0.1 - - [12/Feb/2020 10:28:40] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:28:44,786 INFO: 127.0.0.1 - - [12/Feb/2020 10:28:44] "OPTIONS /drinks HTTP/1.1" 200 -
+2020-02-12 10:28:45,089 INFO: 127.0.0.1 - - [12/Feb/2020 10:28:45] "POST /drinks HTTP/1.1" 200 -
+2020-02-12 10:29:23,869 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 10:29:23,923 INFO:  * Restarting with stat
+2020-02-12 10:29:25,499 WARNING:  * Debugger is active!
+2020-02-12 10:29:25,516 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:29:25,566 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:29:31,658 INFO:  * Restarting with stat
+2020-02-12 10:29:33,228 WARNING:  * Debugger is active!
+2020-02-12 10:29:33,245 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:29:33,256 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:29:33,505 INFO: 127.0.0.1 - - [12/Feb/2020 10:29:33] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:29:33,512 INFO: 127.0.0.1 - - [12/Feb/2020 10:29:33] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 10:29:38,185 INFO: 127.0.0.1 - - [12/Feb/2020 10:29:38] "OPTIONS /drinks HTTP/1.1" 200 -
+2020-02-12 10:29:38,189 INFO: 127.0.0.1 - - [12/Feb/2020 10:29:38] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 10:29:47,455 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 10:29:47,536 INFO:  * Restarting with stat
+2020-02-12 10:29:52,633 INFO:  * Restarting with stat
+2020-02-12 10:29:53,850 WARNING:  * Debugger is active!
+2020-02-12 10:29:53,865 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:29:53,874 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:29:56,957 INFO: 127.0.0.1 - - [12/Feb/2020 10:29:56] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:29:57,305 INFO: 127.0.0.1 - - [12/Feb/2020 10:29:57] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:30:02,101 INFO: 127.0.0.1 - - [12/Feb/2020 10:30:02] "OPTIONS /drinks HTTP/1.1" 200 -
+2020-02-12 10:30:02,440 INFO: 127.0.0.1 - - [12/Feb/2020 10:30:02] "POST /drinks HTTP/1.1" 200 -
+2020-02-12 10:30:50,328 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 10:30:50,388 INFO:  * Restarting with stat
+2020-02-12 10:30:51,825 WARNING:  * Debugger is active!
+2020-02-12 10:30:51,846 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:30:51,858 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:30:56,520 INFO:  * Restarting with stat
+2020-02-12 10:30:58,017 WARNING:  * Debugger is active!
+2020-02-12 10:30:58,033 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:30:58,043 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:30:58,641 INFO: 127.0.0.1 - - [12/Feb/2020 10:30:58] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:30:58,664 INFO: 127.0.0.1 - - [12/Feb/2020 10:30:58] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 10:31:03,556 INFO: 127.0.0.1 - - [12/Feb/2020 10:31:03] "OPTIONS /drinks HTTP/1.1" 200 -
+2020-02-12 10:31:03,562 INFO: 127.0.0.1 - - [12/Feb/2020 10:31:03] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 10:31:13,313 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 10:31:13,363 INFO:  * Restarting with stat
+2020-02-12 10:31:14,577 WARNING:  * Debugger is active!
+2020-02-12 10:31:14,594 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:31:14,604 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:31:24,608 INFO:  * Restarting with stat
+2020-02-12 10:31:26,168 WARNING:  * Debugger is active!
+2020-02-12 10:31:26,191 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:31:26,203 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:31:28,932 INFO: 127.0.0.1 - - [12/Feb/2020 10:31:28] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:31:29,300 INFO: 127.0.0.1 - - [12/Feb/2020 10:31:29] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:31:36,360 INFO: 127.0.0.1 - - [12/Feb/2020 10:31:36] "OPTIONS /drinks HTTP/1.1" 200 -
+2020-02-12 10:31:36,708 INFO: 127.0.0.1 - - [12/Feb/2020 10:31:36] "POST /drinks HTTP/1.1" 200 -
+2020-02-12 10:33:25,232 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\api.py', reloading
+2020-02-12 10:33:25,294 INFO:  * Restarting with stat
+2020-02-12 10:33:26,780 WARNING:  * Debugger is active!
+2020-02-12 10:33:26,807 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:33:26,828 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:33:51,753 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 10:33:51,808 INFO:  * Restarting with stat
+2020-02-12 10:33:55,234 INFO:  * Restarting with stat
+2020-02-12 10:33:56,430 WARNING:  * Debugger is active!
+2020-02-12 10:33:56,445 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:33:56,455 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:34:01,357 INFO: 127.0.0.1 - - [12/Feb/2020 10:34:01] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:34:01,394 INFO: 127.0.0.1 - - [12/Feb/2020 10:34:01] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 10:34:09,676 INFO: 127.0.0.1 - - [12/Feb/2020 10:34:09] "OPTIONS /drinks HTTP/1.1" 200 -
+2020-02-12 10:34:09,679 INFO: 127.0.0.1 - - [12/Feb/2020 10:34:09] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 10:35:03,703 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 10:35:03,768 INFO:  * Restarting with stat
+2020-02-12 10:35:05,637 WARNING:  * Debugger is active!
+2020-02-12 10:35:05,660 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:35:05,673 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:36:16,965 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\api.py', reloading
+2020-02-12 10:36:17,021 INFO:  * Restarting with stat
+2020-02-12 10:36:18,356 WARNING:  * Debugger is active!
+2020-02-12 10:36:18,370 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:36:18,380 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:36:21,314 INFO:  * Restarting with stat
+2020-02-12 10:36:22,521 WARNING:  * Debugger is active!
+2020-02-12 10:36:22,536 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:36:22,546 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:36:26,166 INFO: 127.0.0.1 - - [12/Feb/2020 10:36:26] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:36:26,534 INFO: 127.0.0.1 - - [12/Feb/2020 10:36:26] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:36:36,672 INFO: 127.0.0.1 - - [12/Feb/2020 10:36:36] "OPTIONS /drinks/1 HTTP/1.1" 200 -
+2020-02-12 10:36:37,006 INFO: 127.0.0.1 - - [12/Feb/2020 10:36:37] "PATCH /drinks/1 HTTP/1.1" 200 -
+2020-02-12 10:36:51,354 INFO: 127.0.0.1 - - [12/Feb/2020 10:36:51] "OPTIONS /drinks/1 HTTP/1.1" 200 -
+2020-02-12 10:36:51,655 INFO: 127.0.0.1 - - [12/Feb/2020 10:36:51] "PATCH /drinks/1 HTTP/1.1" 200 -
+2020-02-12 10:37:01,302 INFO: 127.0.0.1 - - [12/Feb/2020 10:37:01] "OPTIONS /drinks HTTP/1.1" 200 -
+2020-02-12 10:37:01,576 INFO: 127.0.0.1 - - [12/Feb/2020 10:37:01] "POST /drinks HTTP/1.1" 500 -
+2020-02-12 10:37:32,170 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\api.py', reloading
+2020-02-12 10:37:32,253 INFO:  * Restarting with stat
+2020-02-12 10:37:33,692 WARNING:  * Debugger is active!
+2020-02-12 10:37:33,710 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:37:33,725 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:37:36,965 INFO:  * Restarting with stat
+2020-02-12 10:37:38,555 WARNING:  * Debugger is active!
+2020-02-12 10:37:38,575 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:37:38,588 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:37:39,299 INFO: 127.0.0.1 - - [12/Feb/2020 10:37:39] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:37:39,677 INFO: 127.0.0.1 - - [12/Feb/2020 10:37:39] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:37:47,753 INFO: 127.0.0.1 - - [12/Feb/2020 10:37:47] "OPTIONS /drinks HTTP/1.1" 200 -
+2020-02-12 10:37:48,081 INFO: 127.0.0.1 - - [12/Feb/2020 10:37:48] "POST /drinks HTTP/1.1" 200 -
+2020-02-12 10:41:46,298 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 10:41:46,402 INFO:  * Restarting with stat
+2020-02-12 10:41:50,481 INFO:  * Restarting with stat
+2020-02-12 10:41:51,979 WARNING:  * Debugger is active!
+2020-02-12 10:41:52,003 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:41:52,017 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:41:53,979 INFO: 127.0.0.1 - - [12/Feb/2020 10:41:53] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:41:53,986 INFO: 127.0.0.1 - - [12/Feb/2020 10:41:53] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 10:43:14,627 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 10:43:14,692 INFO:  * Restarting with stat
+2020-02-12 10:43:18,325 INFO:  * Restarting with stat
+2020-02-12 10:43:20,007 WARNING:  * Debugger is active!
+2020-02-12 10:43:20,025 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:43:20,043 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:43:20,791 INFO: 127.0.0.1 - - [12/Feb/2020 10:43:20] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:43:21,140 INFO: 127.0.0.1 - - [12/Feb/2020 10:43:21] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:44:27,864 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 10:44:27,997 INFO:  * Restarting with stat
+2020-02-12 10:44:32,146 INFO:  * Restarting with stat
+2020-02-12 10:44:33,932 WARNING:  * Debugger is active!
+2020-02-12 10:44:33,952 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:44:33,964 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:44:34,150 INFO: 127.0.0.1 - - [12/Feb/2020 10:44:34] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:44:34,473 INFO: 127.0.0.1 - - [12/Feb/2020 10:44:34] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:44:56,116 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 10:44:56,186 INFO:  * Restarting with stat
+2020-02-12 10:44:57,978 WARNING:  * Debugger is active!
+2020-02-12 10:44:58,027 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:44:58,065 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:45:01,735 INFO:  * Restarting with stat
+2020-02-12 10:45:03,567 WARNING:  * Debugger is active!
+2020-02-12 10:45:03,586 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:45:03,597 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:45:03,696 INFO: 127.0.0.1 - - [12/Feb/2020 10:45:03] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:45:04,285 INFO: 127.0.0.1 - - [12/Feb/2020 10:45:04] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:45:14,947 INFO: 127.0.0.1 - - [12/Feb/2020 10:45:14] "OPTIONS /drinks/2 HTTP/1.1" 200 -
+2020-02-12 10:45:15,249 INFO: 127.0.0.1 - - [12/Feb/2020 10:45:15] "PATCH /drinks/2 HTTP/1.1" 200 -
+2020-02-12 10:45:17,232 INFO: 127.0.0.1 - - [12/Feb/2020 10:45:17] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:45:17,535 INFO: 127.0.0.1 - - [12/Feb/2020 10:45:17] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:45:37,923 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 10:45:38,015 INFO:  * Restarting with stat
+2020-02-12 10:45:42,643 INFO:  * Restarting with stat
+2020-02-12 10:45:44,536 WARNING:  * Debugger is active!
+2020-02-12 10:45:44,564 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:45:44,584 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:45:57,758 INFO: 127.0.0.1 - - [12/Feb/2020 10:45:57] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:45:58,112 INFO: 127.0.0.1 - - [12/Feb/2020 10:45:58] "GET /drinks-detail HTTP/1.1" 500 -
+2020-02-12 10:46:23,108 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 10:46:23,171 INFO:  * Restarting with stat
+2020-02-12 10:46:26,384 INFO:  * Restarting with stat
+2020-02-12 10:46:28,292 WARNING:  * Debugger is active!
+2020-02-12 10:46:28,317 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:46:28,327 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:46:28,510 INFO: 127.0.0.1 - - [12/Feb/2020 10:46:28] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:46:28,790 INFO: 127.0.0.1 - - [12/Feb/2020 10:46:28] "GET /drinks-detail HTTP/1.1" 400 -
+2020-02-12 10:46:32,755 INFO: 127.0.0.1 - - [12/Feb/2020 10:46:32] "GET /drinks-detail HTTP/1.1" 400 -
+2020-02-12 10:49:57,326 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 10:49:57,389 INFO:  * Restarting with stat
+2020-02-12 10:50:00,608 INFO:  * Restarting with stat
+2020-02-12 10:50:02,087 WARNING:  * Debugger is active!
+2020-02-12 10:50:02,104 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:50:02,116 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:50:02,721 INFO: 127.0.0.1 - - [12/Feb/2020 10:50:02] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:50:03,078 INFO: 127.0.0.1 - - [12/Feb/2020 10:50:03] "GET /drinks-detail HTTP/1.1" 400 -
+2020-02-12 10:50:06,185 INFO: 127.0.0.1 - - [12/Feb/2020 10:50:06] "GET /drinks-detail HTTP/1.1" 400 -
+2020-02-12 10:51:03,013 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 10:51:03,108 INFO:  * Restarting with stat
+2020-02-12 10:51:06,416 INFO:  * Restarting with stat
+2020-02-12 10:51:08,356 WARNING:  * Debugger is active!
+2020-02-12 10:51:08,372 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 10:51:08,381 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 10:51:08,541 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:08] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:51:08,882 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:08] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:51:20,730 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:20] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 10:51:21,269 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:21] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 10:51:21,797 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:21] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 10:51:22,322 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:22] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 10:51:22,847 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:22] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 10:51:23,379 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:23] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 10:51:24,175 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:24] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:51:24,966 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:24] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 10:51:25,788 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:25] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 10:51:26,578 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:26] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 10:51:27,111 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:27] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 10:51:27,910 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:27] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:51:28,777 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:28] "POST /drinks HTTP/1.1" 200 -
+2020-02-12 10:51:29,601 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:29] "PATCH /drinks/1 HTTP/1.1" 200 -
+2020-02-12 10:51:30,413 INFO: 127.0.0.1 - - [12/Feb/2020 10:51:30] "DELETE /drinks/1 HTTP/1.1" 200 -
+2020-02-12 10:54:54,976 INFO: 127.0.0.1 - - [12/Feb/2020 10:54:54] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:54:55,277 INFO: 127.0.0.1 - - [12/Feb/2020 10:54:55] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:54:58,328 INFO: 127.0.0.1 - - [12/Feb/2020 10:54:58] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:56:08,220 INFO: 127.0.0.1 - - [12/Feb/2020 10:56:08] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:56:08,572 INFO: 127.0.0.1 - - [12/Feb/2020 10:56:08] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 10:56:12,903 INFO: 127.0.0.1 - - [12/Feb/2020 10:56:12] "OPTIONS /drinks/3 HTTP/1.1" 200 -
+2020-02-12 10:56:13,209 INFO: 127.0.0.1 - - [12/Feb/2020 10:56:13] "DELETE /drinks/3 HTTP/1.1" 200 -
+2020-02-12 10:56:21,572 INFO: 127.0.0.1 - - [12/Feb/2020 10:56:21] "OPTIONS /drinks HTTP/1.1" 200 -
+2020-02-12 10:56:21,898 INFO: 127.0.0.1 - - [12/Feb/2020 10:56:21] "POST /drinks HTTP/1.1" 200 -
+2020-02-12 11:04:34,616 INFO: 127.0.0.1 - - [12/Feb/2020 11:04:34] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:04:34,930 INFO: 127.0.0.1 - - [12/Feb/2020 11:04:34] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:05:27,124 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:27] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:05:27,661 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:27] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 11:05:28,185 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:28] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 11:05:28,712 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:28] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:05:29,237 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:29] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:05:29,767 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:29] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:05:30,558 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:30] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:05:31,371 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:31] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:05:32,153 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:32] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:05:32,946 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:32] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:05:33,480 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:33] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:05:34,308 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:34] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:05:35,138 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:35] "POST /drinks HTTP/1.1" 200 -
+2020-02-12 11:05:35,931 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:35] "PATCH /drinks/1 HTTP/1.1" 404 -
+2020-02-12 11:05:36,718 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:36] "DELETE /drinks/1 HTTP/1.1" 404 -
+2020-02-12 11:05:43,687 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:43] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:05:43,979 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:43] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:05:51,251 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:51] "GET /drinks HTTP/1.1" 500 -
+2020-02-12 11:05:51,822 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:51] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 11:05:52,347 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:52] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 11:05:52,872 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:52] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:05:53,404 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:53] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:05:53,951 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:53] "GET /drinks HTTP/1.1" 500 -
+2020-02-12 11:05:54,803 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:54] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:05:55,643 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:55] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:05:56,457 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:56] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:05:57,290 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:57] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:05:57,834 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:57] "GET /drinks HTTP/1.1" 500 -
+2020-02-12 11:05:58,674 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:58] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:05:59,663 INFO: 127.0.0.1 - - [12/Feb/2020 11:05:59] "POST /drinks HTTP/1.1" 500 -
+2020-02-12 11:06:00,556 INFO: 127.0.0.1 - - [12/Feb/2020 11:06:00] "PATCH /drinks/1 HTTP/1.1" 404 -
+2020-02-12 11:06:01,401 INFO: 127.0.0.1 - - [12/Feb/2020 11:06:01] "DELETE /drinks/1 HTTP/1.1" 404 -
+2020-02-12 11:06:30,076 INFO:  * Restarting with stat
+2020-02-12 11:06:31,611 WARNING:  * Debugger is active!
+2020-02-12 11:06:31,639 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:06:31,657 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:06:33,535 INFO: 127.0.0.1 - - [12/Feb/2020 11:06:33] "GET /drinks HTTP/1.1" 500 -
+2020-02-12 11:06:34,095 INFO: 127.0.0.1 - - [12/Feb/2020 11:06:34] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 11:06:34,623 INFO: 127.0.0.1 - - [12/Feb/2020 11:06:34] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 11:06:35,146 INFO: 127.0.0.1 - - [12/Feb/2020 11:06:35] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:06:35,675 INFO: 127.0.0.1 - - [12/Feb/2020 11:06:35] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:06:36,219 INFO: 127.0.0.1 - - [12/Feb/2020 11:06:36] "GET /drinks HTTP/1.1" 500 -
+2020-02-12 11:06:37,153 INFO: 127.0.0.1 - - [12/Feb/2020 11:06:37] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:07:04,483 INFO:  * Restarting with stat
+2020-02-12 11:07:06,381 WARNING:  * Debugger is active!
+2020-02-12 11:07:06,406 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:07:06,418 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:07:08,581 INFO: 127.0.0.1 - - [12/Feb/2020 11:07:08] "GET /drinks HTTP/1.1" 500 -
+2020-02-12 11:07:09,128 INFO: 127.0.0.1 - - [12/Feb/2020 11:07:09] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 11:07:09,654 INFO: 127.0.0.1 - - [12/Feb/2020 11:07:09] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 11:08:32,977 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 11:08:33,034 INFO:  * Restarting with stat
+2020-02-12 11:08:34,499 WARNING:  * Debugger is active!
+2020-02-12 11:08:34,531 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:08:34,550 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:14:15,451 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\api.py', reloading
+2020-02-12 11:14:15,544 INFO:  * Restarting with stat
+2020-02-12 11:14:19,124 INFO:  * Restarting with stat
+2020-02-12 11:14:20,438 WARNING:  * Debugger is active!
+2020-02-12 11:14:20,453 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:14:20,462 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:14:23,235 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:23] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:14:23,771 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:23] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 11:14:24,298 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:24] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 11:14:24,824 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:24] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:14:25,347 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:25] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:14:25,877 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:25] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:14:26,754 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:26] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:14:27,585 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:27] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:14:28,413 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:28] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:14:29,243 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:29] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:14:29,779 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:29] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:14:30,578 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:30] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:14:31,420 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:31] "POST /drinks HTTP/1.1" 200 -
+2020-02-12 11:14:32,260 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:32] "PATCH /drinks/1 HTTP/1.1" 200 -
+2020-02-12 11:14:33,086 INFO: 127.0.0.1 - - [12/Feb/2020 11:14:33] "DELETE /drinks/1 HTTP/1.1" 200 -
+2020-02-12 11:19:58,024 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 11:19:58,107 INFO:  * Restarting with stat
+2020-02-12 11:20:02,034 INFO:  * Restarting with stat
+2020-02-12 11:20:03,358 WARNING:  * Debugger is active!
+2020-02-12 11:20:03,375 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:20:03,386 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:20:10,521 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:10] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:20:11,056 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:11] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 11:20:11,581 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:11] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 11:20:12,106 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:12] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:20:12,632 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:12] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:20:13,160 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:13] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:20:14,036 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:14] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:20:14,940 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:14] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:20:15,763 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:15] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:20:16,564 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:16] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:20:17,098 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:17] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:20:17,907 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:17] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:20:18,748 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:18] "POST /drinks HTTP/1.1" 200 -
+2020-02-12 11:20:19,582 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:19] "PATCH /drinks/1 HTTP/1.1" 200 -
+2020-02-12 11:20:20,403 INFO: 127.0.0.1 - - [12/Feb/2020 11:20:20] "DELETE /drinks/1 HTTP/1.1" 200 -
+2020-02-12 11:20:41,167 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 11:20:41,236 INFO:  * Restarting with stat
+2020-02-12 11:20:42,523 WARNING:  * Debugger is active!
+2020-02-12 11:20:42,538 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:20:42,548 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:22:19,150 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 11:22:19,253 INFO:  * Restarting with stat
+2020-02-12 11:22:22,717 INFO:  * Restarting with stat
+2020-02-12 11:22:23,967 WARNING:  * Debugger is active!
+2020-02-12 11:22:23,983 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:22:23,992 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:22:27,507 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:27] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:22:28,041 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:28] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 11:22:28,566 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:28] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 11:22:29,090 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:29] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:22:29,611 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:29] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:22:30,141 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:30] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:22:31,004 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:31] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:22:32,065 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:32] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:22:33,105 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:33] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:22:33,928 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:33] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:22:34,463 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:34] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:22:35,287 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:35] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:22:36,142 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:36] "POST /drinks HTTP/1.1" 200 -
+2020-02-12 11:22:37,003 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:37] "PATCH /drinks/1 HTTP/1.1" 200 -
+2020-02-12 11:22:37,845 INFO: 127.0.0.1 - - [12/Feb/2020 11:22:37] "DELETE /drinks/1 HTTP/1.1" 200 -
+2020-02-12 11:27:05,315 INFO: 127.0.0.1 - - [12/Feb/2020 11:27:05] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:27:05,478 INFO: 127.0.0.1 - - [12/Feb/2020 11:27:05] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:27:05,671 INFO: 127.0.0.1 - - [12/Feb/2020 11:27:05] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:27:05,814 INFO: 127.0.0.1 - - [12/Feb/2020 11:27:05] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:29:44,929 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 11:29:44,993 INFO:  * Restarting with stat
+2020-02-12 11:29:49,161 INFO:  * Restarting with stat
+2020-02-12 11:29:50,402 WARNING:  * Debugger is active!
+2020-02-12 11:29:50,418 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:29:50,427 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:29:54,951 INFO: 127.0.0.1 - - [12/Feb/2020 11:29:54] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:29:55,489 INFO: 127.0.0.1 - - [12/Feb/2020 11:29:55] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 11:29:56,012 INFO: 127.0.0.1 - - [12/Feb/2020 11:29:56] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 11:29:56,536 INFO: 127.0.0.1 - - [12/Feb/2020 11:29:56] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:29:57,063 INFO: 127.0.0.1 - - [12/Feb/2020 11:29:57] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:29:57,591 INFO: 127.0.0.1 - - [12/Feb/2020 11:29:57] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:29:58,458 INFO: 127.0.0.1 - - [12/Feb/2020 11:29:58] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:29:59,278 INFO: 127.0.0.1 - - [12/Feb/2020 11:29:59] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:30:00,157 INFO: 127.0.0.1 - - [12/Feb/2020 11:30:00] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:30:00,994 INFO: 127.0.0.1 - - [12/Feb/2020 11:30:00] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:30:01,526 INFO: 127.0.0.1 - - [12/Feb/2020 11:30:01] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:30:02,607 INFO: 127.0.0.1 - - [12/Feb/2020 11:30:02] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:30:03,479 INFO: 127.0.0.1 - - [12/Feb/2020 11:30:03] "POST /drinks HTTP/1.1" 200 -
+2020-02-12 11:30:04,352 INFO: 127.0.0.1 - - [12/Feb/2020 11:30:04] "PATCH /drinks/1 HTTP/1.1" 200 -
+2020-02-12 11:30:05,459 INFO: 127.0.0.1 - - [12/Feb/2020 11:30:05] "DELETE /drinks/1 HTTP/1.1" 200 -
+2020-02-12 11:30:20,003 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 11:30:20,061 INFO:  * Restarting with stat
+2020-02-12 11:30:21,758 WARNING:  * Debugger is active!
+2020-02-12 11:30:21,784 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:30:21,833 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:38:33,597 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 11:38:33,655 INFO:  * Restarting with stat
+2020-02-12 11:38:37,175 INFO:  * Restarting with stat
+2020-02-12 11:38:38,716 WARNING:  * Debugger is active!
+2020-02-12 11:38:38,744 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:38:38,767 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:38:44,953 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:44] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:38:45,491 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:45] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 11:38:46,016 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:46] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 11:38:46,543 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:46] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:38:47,066 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:47] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:38:47,600 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:47] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:38:48,455 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:48] "GET /drinks-detail HTTP/1.1" 500 -
+2020-02-12 11:38:49,277 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:49] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:38:50,140 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:50] "PATCH /drinks/1 HTTP/1.1" 500 -
+2020-02-12 11:38:50,998 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:50] "DELETE /drinks/1 HTTP/1.1" 500 -
+2020-02-12 11:38:51,548 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:51] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:38:52,371 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:52] "GET /drinks-detail HTTP/1.1" 500 -
+2020-02-12 11:38:53,185 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:53] "POST /drinks HTTP/1.1" 500 -
+2020-02-12 11:38:54,001 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:54] "PATCH /drinks/1 HTTP/1.1" 500 -
+2020-02-12 11:38:54,817 INFO: 127.0.0.1 - - [12/Feb/2020 11:38:54] "DELETE /drinks/1 HTTP/1.1" 500 -
+2020-02-12 11:39:04,256 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 11:39:04,320 INFO:  * Restarting with stat
+2020-02-12 11:39:08,001 INFO:  * Restarting with stat
+2020-02-12 11:39:09,745 WARNING:  * Debugger is active!
+2020-02-12 11:39:09,763 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:39:09,774 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:39:10,901 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:10] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:39:11,432 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:11] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 11:39:11,956 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:11] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 11:39:12,479 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:12] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:39:13,001 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:13] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:39:13,528 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:13] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:39:14,329 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:14] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:39:15,120 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:15] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:39:16,054 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:16] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:39:16,903 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:16] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:39:17,444 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:17] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:39:18,250 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:18] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:39:19,089 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:19] "POST /drinks HTTP/1.1" 200 -
+2020-02-12 11:39:19,926 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:19] "PATCH /drinks/1 HTTP/1.1" 200 -
+2020-02-12 11:39:20,745 INFO: 127.0.0.1 - - [12/Feb/2020 11:39:20] "DELETE /drinks/1 HTTP/1.1" 200 -
+2020-02-12 11:42:15,086 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 11:42:15,152 INFO:  * Restarting with stat
+2020-02-12 11:42:16,479 WARNING:  * Debugger is active!
+2020-02-12 11:42:16,495 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:42:16,506 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:42:46,776 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:46] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:42:47,309 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:47] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 11:42:47,837 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:47] "POST /drinks HTTP/1.1" 401 -
+2020-02-12 11:42:48,362 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:48] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:42:48,887 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:48] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:42:49,418 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:49] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:42:50,267 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:50] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:42:51,059 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:51] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:42:51,854 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:51] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:42:52,645 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:52] "DELETE /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:42:53,178 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:53] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:42:53,965 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:53] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:42:54,790 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:54] "POST /drinks HTTP/1.1" 200 -
+2020-02-12 11:42:55,630 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:55] "PATCH /drinks/1 HTTP/1.1" 200 -
+2020-02-12 11:42:56,455 INFO: 127.0.0.1 - - [12/Feb/2020 11:42:56] "DELETE /drinks/1 HTTP/1.1" 200 -
+2020-02-12 11:43:31,556 INFO: 127.0.0.1 - - [12/Feb/2020 11:43:31] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:43:41,154 INFO: 127.0.0.1 - - [12/Feb/2020 11:43:41] "PATCH /drinks/1 HTTP/1.1" 401 -
+2020-02-12 11:44:11,232 INFO: 127.0.0.1 - - [12/Feb/2020 11:44:11] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:44:44,967 INFO: 127.0.0.1 - - [12/Feb/2020 11:44:44] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:44:45,268 INFO: 127.0.0.1 - - [12/Feb/2020 11:44:45] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:45:00,508 INFO: 127.0.0.1 - - [12/Feb/2020 11:45:00] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:45:00,787 INFO: 127.0.0.1 - - [12/Feb/2020 11:45:00] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 11:45:17,515 INFO: 127.0.0.1 - - [12/Feb/2020 11:45:17] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:46:04,563 INFO: 127.0.0.1 - - [12/Feb/2020 11:46:04] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:47:27,823 INFO: 127.0.0.1 - - [12/Feb/2020 11:47:27] "OPTIONS /drinks HTTP/1.1" 200 -
+2020-02-12 11:47:27,829 INFO: 127.0.0.1 - - [12/Feb/2020 11:47:27] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 11:48:19,848 INFO: 127.0.0.1 - - [12/Feb/2020 11:48:19] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:51:59,311 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\api.py', reloading
+2020-02-12 11:51:59,381 INFO:  * Restarting with stat
+2020-02-12 11:53:07,408 INFO:  * Restarting with stat
+2020-02-12 11:53:08,946 WARNING:  * Debugger is active!
+2020-02-12 11:53:08,964 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:53:08,978 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:53:12,093 INFO: 127.0.0.1 - - [12/Feb/2020 11:53:12] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 11:53:48,271 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\api.py', reloading
+2020-02-12 11:53:48,341 INFO:  * Restarting with stat
+2020-02-12 11:53:50,437 WARNING:  * Debugger is active!
+2020-02-12 11:53:50,458 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:53:50,468 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:53:55,963 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 11:53:56,024 INFO:  * Restarting with stat
+2020-02-12 11:53:57,542 WARNING:  * Debugger is active!
+2020-02-12 11:53:57,561 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:53:57,571 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:54:01,451 INFO:  * Restarting with stat
+2020-02-12 11:54:02,803 WARNING:  * Debugger is active!
+2020-02-12 11:54:02,820 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 11:54:02,831 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 11:54:08,225 INFO: 127.0.0.1 - - [12/Feb/2020 11:54:08] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 12:01:19,346 INFO: 127.0.0.1 - - [12/Feb/2020 12:01:19] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 12:03:12,443 INFO: 127.0.0.1 - - [12/Feb/2020 12:03:12] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 12:03:12,757 INFO: 127.0.0.1 - - [12/Feb/2020 12:03:12] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 12:03:20,478 INFO: 127.0.0.1 - - [12/Feb/2020 12:03:20] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 12:03:20,797 INFO: 127.0.0.1 - - [12/Feb/2020 12:03:20] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 12:03:27,994 INFO: 127.0.0.1 - - [12/Feb/2020 12:03:27] "OPTIONS /drinks HTTP/1.1" 200 -
+2020-02-12 12:03:28,295 INFO: 127.0.0.1 - - [12/Feb/2020 12:03:28] "POST /drinks HTTP/1.1" 200 -
+2020-02-12 12:03:30,197 INFO: 127.0.0.1 - - [12/Feb/2020 12:03:30] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 12:03:30,509 INFO: 127.0.0.1 - - [12/Feb/2020 12:03:30] "GET /drinks-detail HTTP/1.1" 200 -
+2020-02-12 12:11:55,247 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\api.py', reloading
+2020-02-12 12:11:55,306 INFO:  * Restarting with stat
+2020-02-12 12:11:56,904 WARNING:  * Debugger is active!
+2020-02-12 12:11:56,924 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 12:11:56,938 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 12:12:00,820 INFO:  * Restarting with stat
+2020-02-12 12:12:01,991 WARNING:  * Debugger is active!
+2020-02-12 12:12:02,006 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 12:12:02,016 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 12:12:16,132 INFO: 127.0.0.1 - - [12/Feb/2020 12:12:16] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 12:12:32,027 INFO:  * Restarting with stat
+2020-02-12 12:12:33,203 WARNING:  * Debugger is active!
+2020-02-12 12:12:33,220 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 12:12:33,229 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 12:12:41,998 INFO: 127.0.0.1 - - [12/Feb/2020 12:12:41] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 12:35:00,956 INFO: 127.0.0.1 - - [12/Feb/2020 12:35:00] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 12:35:01,263 INFO: 127.0.0.1 - - [12/Feb/2020 12:35:01] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 13:51:19,415 INFO: 127.0.0.1 - - [12/Feb/2020 13:51:19] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 13:54:37,573 INFO: 127.0.0.1 - - [12/Feb/2020 13:54:37] "OPTIONS /drinks-detail HTTP/1.1" 200 -
+2020-02-12 13:54:37,881 INFO: 127.0.0.1 - - [12/Feb/2020 13:54:37] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 13:57:44,259 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 13:57:44,369 INFO:  * Restarting with stat
+2020-02-12 13:57:52,093 INFO:  * Restarting with stat
+2020-02-12 13:57:53,831 WARNING:  * Debugger is active!
+2020-02-12 13:57:53,849 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 13:57:53,905 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 13:57:58,240 INFO: 127.0.0.1 - - [12/Feb/2020 13:57:58] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 13:58:13,610 INFO: 127.0.0.1 - - [12/Feb/2020 13:58:13] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 13:59:06,104 INFO: 127.0.0.1 - - [12/Feb/2020 13:59:06] "GET /drinks-detail HTTP/1.1" 401 -
+2020-02-12 13:59:41,102 INFO: 127.0.0.1 - - [12/Feb/2020 13:59:41] "GET /drinks HTTP/1.1" 200 -
+2020-02-12 13:59:45,589 INFO: 127.0.0.1 - - [12/Feb/2020 13:59:45] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 14:00:22,934 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 14:00:23,030 INFO:  * Restarting with stat
+2020-02-12 14:00:25,154 WARNING:  * Debugger is active!
+2020-02-12 14:00:25,170 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 14:00:25,180 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 14:00:28,912 INFO:  * Restarting with stat
+2020-02-12 14:00:30,590 WARNING:  * Debugger is active!
+2020-02-12 14:00:30,620 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 14:00:30,642 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 14:00:36,782 INFO: 127.0.0.1 - - [12/Feb/2020 14:00:36] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 14:04:06,312 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 14:04:06,376 INFO:  * Restarting with stat
+2020-02-12 14:04:08,013 WARNING:  * Debugger is active!
+2020-02-12 14:04:08,068 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 14:04:08,113 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 14:04:10,967 INFO:  * Restarting with stat
+2020-02-12 14:04:12,801 WARNING:  * Debugger is active!
+2020-02-12 14:04:12,829 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 14:04:12,840 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 14:04:16,821 INFO: 127.0.0.1 - - [12/Feb/2020 14:04:16] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 14:06:28,574 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\api.py', reloading
+2020-02-12 14:06:28,684 INFO:  * Restarting with stat
+2020-02-12 14:06:30,445 WARNING:  * Debugger is active!
+2020-02-12 14:06:30,463 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 14:06:30,475 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 14:06:31,637 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 14:06:31,783 INFO:  * Restarting with stat
+2020-02-12 14:06:34,544 INFO:  * Restarting with stat
+2020-02-12 14:06:36,046 WARNING:  * Debugger is active!
+2020-02-12 14:06:36,062 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 14:06:36,071 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 14:06:47,127 INFO: 127.0.0.1 - - [12/Feb/2020 14:06:47] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 14:16:09,851 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\auth\\auth.py', reloading
+2020-02-12 14:16:09,979 INFO:  * Restarting with stat
+2020-02-12 14:16:14,645 INFO:  * Restarting with stat
+2020-02-12 14:16:16,220 WARNING:  * Debugger is active!
+2020-02-12 14:16:16,243 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 14:16:16,256 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 14:16:19,937 INFO: 127.0.0.1 - - [12/Feb/2020 14:16:19] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 14:19:04,996 INFO:  * Restarting with stat
+2020-02-12 14:19:06,440 WARNING:  * Debugger is active!
+2020-02-12 14:19:06,458 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 14:19:06,468 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 14:20:51,015 INFO:  * Restarting with stat
+2020-02-12 14:20:52,474 WARNING:  * Debugger is active!
+2020-02-12 14:20:52,494 INFO:  * Debugger PIN: 253-873-506
+2020-02-12 14:20:52,509 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-12 14:20:58,876 INFO: 127.0.0.1 - - [12/Feb/2020 14:20:58] "POST /drinks HTTP/1.1" 400 -
+2020-02-12 14:21:51,108 INFO:  * Detected change in 'C:\\Users\\shurt\\Code\\udacity-coffee-shop\\backend\\src\\api.py', reloading
+2020-02-12 14:21:51,171 INFO:  * Restarting with stat
+2020-02-12 14:22:30,314 INFO:  * Restarting with stat
+2020-02-12 14:23:26,904 INFO:  * Restarting with stat
+2020-02-12 14:23:48,896 INFO:  * Restarting with stat
