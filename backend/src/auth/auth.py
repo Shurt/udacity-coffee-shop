@@ -13,18 +13,18 @@ ALGORITHMS = ['RS256']
 API_AUDIENCE = 'coffee-shop'
 CLIENT_ID = 'DwVmx8VRF8xkaCGjJCgxDGZmFc2oa2ky'
 
-# Set up logging
 
-#logging.basicConfig(filename='error.log', level=logging.INFO,
-#                    format='%(asctime)s %(levelname)s: %(message)s')
-
-# AuthError Exception
 class AuthError(Exception):
     def __init__(self, error, status_code):
         self.error = error
         self.status_code = status_code
 
-# Auth Header
+
+'''
+Retrieves the headers from the token.
+'''
+
+
 def get_token_auth_header():
     auth_headers = request.headers.get('Authorization', None)
 
@@ -34,18 +34,30 @@ def get_token_auth_header():
     auth_parts = auth_headers.split()
 
     if len(auth_parts) != 2:
-        raise AuthError('Malformed header: Header should contain 2 parts.', 401)
+        raise AuthError('Malformed header: Should contain 2 parts.', 401)
     elif auth_parts[0].lower() != 'bearer':
-        raise AuthError('Malformed header: Header must start with "Bearer".', 401)
+        raise AuthError('Malformed header: Must start with "Bearer".', 401)
 
     return auth_parts[1]
 
+
+'''
+Verifies the permissions provided within the JWT match what the API returned.
+'''
+
+
 def check_permissions(permission, payload):
     if 'permissions' not in payload:
-        raise AuthError('Header invalid: No permissions attribute in payload.', 400)
+        raise AuthError('Header invalid: No permissions attribute.', 400)
 
     if permission not in payload['permissions']:
         raise AuthError("Unauthorized to access resource", 401)
+
+
+'''
+Decodes and verifies the JWT with data from the Auth0 API.
+'''
+
 
 def verify_decode_jwt(token):
     json_url = urlopen(f'https://{AUTH0_DOMAIN}/.well-known/jwks.json')
@@ -68,7 +80,6 @@ def verify_decode_jwt(token):
         else:
             raise AuthError("Unauthorized to access this resource.", 401)
 
-    
     if rsa_key:
         try:
             payload = jwt.decode(token,
@@ -79,15 +90,16 @@ def verify_decode_jwt(token):
             return payload
 
         except jwt.ExpiredSignatureError:
-            raise AuthError('Token expired: Token is no longer valid. Please log in again.', 401)
+            raise AuthError('Token expired: Please log in again.', 401)
 
         except jwt.JWTClaimsError:
-            raise AuthError('Claim error: Claim error detected within JWT', 401)
+            raise AuthError('Claim error: Detected within JWT', 401)
 
         except Exception:
-            raise AuthError('Invalid header: Exception encountered while processing JWT.', 400)
+            raise AuthError('Invalid header in JWT.', 400)
 
     raise AuthError('Invalid header: Unable to decode JWT', 400)
+
 
 def requires_auth(permission=''):
     def requires_auth_decorator(f):

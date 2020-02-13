@@ -21,16 +21,7 @@ CORS(app)
 '''
 db_drop_and_create_all()
 
-
-''' # Set up logging
-error_log = FileHandler('error.log')
-error_log.setFormatter(Formatter(
-    '%(asctime)s %(levelname)s: %(message)s [in %(pathname)s:%(lineno)d]'))
-error_log.setLevel(logging.INFO)
-app.logger.setLevel(logging.INFO)
-app.logger.addHandler(error_log)
- '''
-## ROUTES [API documentation is in README.md]
+# ROUTES [API documentation for the endpoints is in README.md]
 @app.route('/drinks', methods=['GET'])
 def get_drinks():
     drinks = Drink.query.order_by(Drink.id).all()
@@ -40,6 +31,7 @@ def get_drinks():
         'drinks': [drink.short() for drink in drinks]
     })
 
+
 @app.route('/drinks-detail', methods=['GET'])
 @requires_auth('get:drinks-detail')
 def get_drink_detail(jwt):
@@ -48,6 +40,7 @@ def get_drink_detail(jwt):
         'success': True,
         'drinks': all_drinks
     })
+
 
 @app.route('/drinks', methods=['POST'])
 @requires_auth('post:drinks')
@@ -69,6 +62,7 @@ def new_drink(jwt):
         'drinks': [new_drink.long()]
     })
 
+
 @app.route('/drinks/<int:drink_id>', methods=['PATCH'])
 @requires_auth('patch:drinks')
 def edit_drink(jwt, drink_id):
@@ -77,7 +71,7 @@ def edit_drink(jwt, drink_id):
 
     if drink is None:
         abort(404)
-    
+
     if 'title' in new_drink_data:
         drink.title = new_drink_data['title']
 
@@ -90,6 +84,7 @@ def edit_drink(jwt, drink_id):
         'success': True,
         'drinks': [drink.long()]
     })
+
 
 @app.route('/drinks/<int:drink_id>', methods=["DELETE"])
 @requires_auth('delete:drinks')
@@ -106,15 +101,23 @@ def delete_drink(jwt, drink_id):
         'delete': drink.id
     })
 
-## Error Handling
+
+# Error Handling
+'''
+Error is returned when the request does not match expected values.
+'''
 @app.errorhandler(422)
 def unprocessable(error):
     return jsonify({
-        "success": False, 
+        "success": False,
         "error": 422,
         "message": "Data received is malformed."
     }), 422
 
+
+'''
+Error is returned when a resource is not found.
+'''
 @app.errorhandler(404)
 def not_found(error):
     return jsonify({
@@ -123,6 +126,10 @@ def not_found(error):
         "message": "Resource not found."
     }), 404
 
+
+'''
+Error is returned when a user attempts an action they are not authorized for.
+'''
 @app.errorhandler(401)
 def unauthorized_action(error):
     return jsonify({
@@ -131,6 +138,10 @@ def unauthorized_action(error):
         "message": "User unauthorized to perform this action."
     })
 
+
+'''
+Error is returned when the request is malformed in some manner.
+'''
 @app.errorhandler(400)
 def bad_request(error):
     return jsonify({
@@ -138,6 +149,7 @@ def bad_request(error):
         "error": 400,
         "message": "Bad request."
     })
+
 
 @app.errorhandler(AuthError)
 def auth_error(error):
